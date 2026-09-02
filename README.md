@@ -8,7 +8,6 @@ The project explores gas flaring within the petroleum industry, focusing on glob
 
 This project was particularly meaningful because it connects my academic background in Petroleum Chemistry with my growing skills in Data Analytics. The topic also builds on an area I previously explored during my final-year seminar in Petroleum Chemistry, which I revisited from a data analytics perspective.
 
-⸻
 
 🎯 Project Objective
 
@@ -24,8 +23,6 @@ Key Objectives
 * Develop interactive dashboards for environmental analysis.
 * Provide recommendations that can support more sustainable petroleum operations.
 
-⸻
-
 ❓ Key Questions
 
 1. How has gas flaring changed over the study period?
@@ -36,7 +33,6 @@ Key Objectives
 6. Which countries are identified as reducing flaring?
 7. What strategies can support the reduction of gas flaring?
 
-⸻
 
 📊 Dataset
 
@@ -56,8 +52,6 @@ Key Variables
 
 The final cleaned dataset used for Power BI analysis was TABLE2_1.
 
-⸻
-
 🧹 Data Cleaning & Preparation
 
 Data cleaning and transformation were carried out using Power Query in Microsoft Power BI.
@@ -74,8 +68,6 @@ The cleaning process included:
 
 2,776 duplicate records were removed during the data-cleaning process.
 
-⸻
-
 🛠️ Tools & Technologies
 
 Tool	Purpose
@@ -84,8 +76,6 @@ Power Query	Data cleaning and transformation
 SQL	Data querying and analysis
 Microsoft Excel	Data preparation and analysis
 Python	Data analytics and technical development
-
-⸻
 
 📈 Power BI Dashboards
 
@@ -98,7 +88,6 @@ This dashboard provides a global overview of gas-flaring activities, including f
 Key KPIs:
 Total Flare Volume: 2.12K | Countries: 104 | Flare Locations: 27K | Average Flare Volume: 0.01
 
-⸻
 
 🇳🇬 Nigeria and Petroleum Flaring Dashboard
 
@@ -107,7 +96,6 @@ This dashboard focuses on petroleum-related flaring activities in Nigeria, highl
 Key KPIs:
 Average Flare Volume: 0.02 | Flare Records: 465 | Operators: 47 | Flare Fields: 192 | Field Types: 4
 
-⸻
 
 ♻️ Flaring Reduction Dashboard
 
@@ -116,7 +104,6 @@ This dashboard provides a sustainability-focused view of flare-volume changes an
 Key KPIs:
 Global Flare Volume: 2.12K | Flare Volume Change: 6.10% | Countries Reducing Flaring: 45
 
-⸻
 
 💡 Key Insights
 
@@ -126,8 +113,6 @@ Global Flare Volume: 2.12K | Flare Volume Change: 6.10% | Countries Reducing Fla
 * The dashboard identifies 45 countries reducing flaring.
 * Operator, field, and geographic information can support more targeted monitoring and environmental analysis.
 * Interactive visualization makes complex petroleum and environmental data easier to interpret and communicate.
-
-⸻
 
 💡 Recommendations
 
@@ -139,8 +124,6 @@ Global Flare Volume: 2.12K | Flare Volume Change: 6.10% | Countries Reducing Fla
 6. Study successful flare-reduction practices from countries showing improvements.
 7. Strengthen environmental monitoring and remediation where petroleum activities have resulted in contamination.
 
-⸻
-
 ⚠️ Limitations
 
 * The dataset focuses primarily on gas-flaring activities and related petroleum assets.
@@ -148,8 +131,6 @@ Global Flare Volume: 2.12K | Flare Volume Change: 6.10% | Countries Reducing Fla
 * The working dataset does not contain all variables required to establish a direct causal relationship between petroleum production and gas flaring.
 * Direct flaring-intensity comparisons are limited by the variables available in the dataset.
 * The analysis therefore presents data-driven observations rather than causal conclusions.
-
-⸻
 
 🎓 Internship Experience
 
@@ -168,15 +149,11 @@ The internship provided practical experience in:
 * Data Visualization
 * Analytical Problem-Solving
 
-⸻
-
 👩🏽‍💻 About Me
 
 I am a Petroleum Chemistry graduate developing a career in Data Analytics, with an interest in using data-driven approaches to solve real-world problems, particularly within the energy, petroleum, and environmental sectors.
 
 My goal is to combine my Petroleum Chemistry background with Data Analytics skills to generate meaningful insights and support data-driven decision-making.
-
-⸻
 
 📂 Repository Contents
 
@@ -193,7 +170,6 @@ gas-flaring-environmental-analysis/
 
 Note: The raw dataset is not included in this repository due to file-size limitations.
 
-⸻
 
 ⭐ Project Outcome
 
@@ -202,8 +178,6 @@ This project demonstrates my ability to take a real-world dataset through the co
 Data → Cleaning → Transformation → Analysis → Visualization → Insights → Recommendations
 
 It represents an important step toward combining my Petroleum Chemistry knowledge with Data Analytics to address real-world challenges in the petroleum and environmental sectors.
-
-⸻
 
 👩🏽‍💻 Author
 
