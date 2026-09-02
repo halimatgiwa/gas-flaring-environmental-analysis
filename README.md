@@ -99,6 +99,8 @@ This dashboard focuses on petroleum-related flaring activities in Nigeria, highl
 Key KPIs:
 Average Flare Volume: 0.02 | Flare Records: 465 | Operators: 47 | Flare Fields: 192 | Field Types: 4
 
+![Nigeria and Petroleum Flaring Dashboard](./NIGERIA%20AND%20PETROLEUM%20FLARING%20DASHBOARD.jpeg)
+
 
 ♻️ Flaring Reduction Dashboard
 
@@ -106,6 +108,8 @@ This dashboard provides a sustainability-focused view of flare-volume changes an
 
 Key KPIs:
 Global Flare Volume: 2.12K | Flare Volume Change: 6.10% | Countries Reducing Flaring: 45
+
+![Flare Reduction Dashboard](./FLARE%20REDUCTION%20DASHBOARD.jpeg)
 
 
 💡 Key Insights
