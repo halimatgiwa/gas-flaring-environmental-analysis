@@ -170,8 +170,6 @@ gas-flaring-environmental-analysis/
 │   ├── Global Gas Flaring Dashboard.jpeg
 │   ├── Nigeria and Petroleum Flaring Dashboard.jpeg
 │   └── Flaring Reduction Dashboard.jpeg
-│
-├── Final Report.pdf
 ├── Power BI Dashboard.pbix
 └── README.md
 
