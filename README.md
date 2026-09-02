@@ -88,7 +88,9 @@ This dashboard provides a global overview of gas-flaring activities, including f
 Key KPIs:
 Total Flare Volume: 2.12K | Countries: 104 | Flare Locations: 27K | Average Flare Volume: 0.01
 
-#GLOBAL FLARING DASHBOARD.jpeg#
+
+![Global Gas Flaring Dashboard](https://raw.githubusercontent.com/halimatgiwa/gas-flaring-dashboard/main/GLOBAL%20GAS%20FLARING%20DASHBOARD.jpeg)
+
 
 
 🇳🇬 Nigeria and Petroleum Flaring Dashboard
