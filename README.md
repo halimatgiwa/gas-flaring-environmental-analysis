@@ -1,4 +1,4 @@
-🌍 Environmental Impact of the Petroleum Industry: Gas Flaring, Emissions and Sustainability
+🌍 Environmental Impact of the Petroleum Industry: Gas Flaring and Sustainability
 
 📌 Project Overview
 
