@@ -109,7 +109,7 @@ This dashboard provides a sustainability-focused view of flare-volume changes an
 Key KPIs:
 Global Flare Volume: 2.12K | Flare Volume Change: 6.10% | Countries Reducing Flaring: 45
 
-![Flaring Reduction Dashboard](./FLARE%20REDUCTION%20DASHBOARD.jpeg)
+![Flaring Reduction Dashboard](./FLARING%20REDUCTION%20DASHBOARD.jpeg)
 
 
 💡 Key Insights
